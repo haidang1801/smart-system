@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@babel/runtime-corejs3": "^7.15.4",
-    "@material-ui/core": "^4.12.3",
+    "@material-ui/core": "^4.12.4",
     "audio-recorder-polyfill": "^0.4.1",
     "chat-ui-react": "^0.3.0",
     "dayjs": "^1.10.7",
